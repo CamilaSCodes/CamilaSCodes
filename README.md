@@ -17,6 +17,7 @@
 
 <h3 align="left">Stats:</h3>
 
-<p><img align="left" width="300" src="https://github-readme-stats.vercel.app/api/top-langs?username=camilascodes&show_icons=true&theme=highcontrast&title_color=6699cc&text_color=ffffff&bg_color=222422&hide_border=true&locale=en&layout=compact" alt="camilascodes" /></p> <a href="https://git.io/streak-stats">
-<img align="left"  src="https://streak-stats.demolab.com?user=camilaSCodes&hide_border=true&card_width=380&background=222422&stroke=6699cc&dates=ffffff&ring=6699cc&fire=6699cc&currStreakNum=6699cc&currStreakLabel=6699cc&sideNums=6699cc&sideLabels=6699cc&excludeDaysLabel=6699cc" alt="GitHub Streak" /></a>
+<p><img align="left" width="300" src="https://github-readme-stats.vercel.app/api/top-langs?username=camilascodes&show_icons=true&theme=highcontrast&title_color=6699cc&text_color=fffff2&bg_color=222422&hide_border=true&locale=en&layout=compact" alt="camilascodes" /></p>
+
+<img align="left"  src="https://streak-stats.demolab.com?user=camilaSCodes&hide_border=true&card_width=380&background=222422&stroke=6699cc&dates=fffff2&ring=6699cc&fire=6699cc&currStreakNum=6699cc&currStreakLabel=6699cc&sideNums=6699cc&sideLabels=6699cc&excludeDaysLabel=6699cc" alt="GitHub Streak" /></a>
 
