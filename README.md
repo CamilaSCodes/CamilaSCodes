@@ -3,19 +3,18 @@
 <h3 align="center">A Computer Scientist and cinephile. I'm passionate about all things related to processes.</h3>
 <img align="right" alt="cat" width="280" src="https://media.tenor.com/mMkJeuyHkRYAAAAi/cat-cat-on-computer.gif">
 
-👩🏻‍💻 I'm not particularly keen on pursuing a career as a dev, so I've set up this GitHub account to organize both my personal and university projects. 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">✉️ Connect with me</h3>
 <p align="left">
 <a href="https://linkedin.com/in/camila-andrade-de-sena-6220bb246" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="camila-andrade-de-sena-6220bb246" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">🛠 Languages and Tools</h3>
 
 [![Languages and Tools](https://skillicons.dev/icons?i=blender,c,cpp,css,figma,html,javascript,mysql,php,py)](https://skillicons.dev)
 
 
-<h3 align="left">Stats:</h3>
+<h3 align="left">📊 Stats</h3>
 
 <p><img align="left" width="300" src="https://github-readme-stats.vercel.app/api/top-langs?username=camilascodes&show_icons=true&theme=highcontrast&title_color=6699cc&text_color=ffffff&bg_color=222422&hide_border=true&locale=en&layout=compact" alt="camilascodes" /></p>
 
