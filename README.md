@@ -11,7 +11,7 @@
 
 <h3 align="left">🛠 Languages and Tools</h3>
 
-[![Languages and Tools](https://skillicons.dev/icons?i=blender,c,cpp,css,figma,html,javascript,linux,mysql,php,py)](https://skillicons.dev)
+[![Languages and Tools](https://skillicons.dev/icons?i=blender,c,cpp,css,figma,html,javascript,linux,mysql,py,windows)](https://skillicons.dev)
 
 
 <h3 align="left">📊 Stats</h3>
