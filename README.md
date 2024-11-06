@@ -1,4 +1,4 @@
-[![MasterHead](https://thefourthestate.net/wp-content/uploads/2024/02/wes-anderson.jpg)](https://rishavchanda.io)
+[![MasterHead](https://64.media.tumblr.com/8d9df4fd79cc7e8fe33c915284d228a1/15d79534e1be4dc9-93/s1280x1920/e42ff972d439c7ce5d7e7db1450e7e9218a2686f.gif)](https://rishavchanda.io)
 <h1 align="center">☃️ Hi, I'm Camila Sena</h1>
 <h3 align="center">A Computer Scientist and art lover. I'm passionate about all things related to processes.</h3>
 <img align="right" alt="cat" width="220" src="https://media.tenor.com/mMkJeuyHkRYAAAAi/cat-cat-on-computer.gif">
